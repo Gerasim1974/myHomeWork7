@@ -1,0 +1,15 @@
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appHomeWork7\obj\Debug\net6.0\appHomeWork7.csproj.AssemblyReference.cache
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appHomeWork7\obj\Debug\net6.0\appHomeWork7.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appHomeWork7\obj\Debug\net6.0\appHomeWork7.AssemblyInfoInputs.cache
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appHomeWork7\obj\Debug\net6.0\appHomeWork7.AssemblyInfo.cs
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appHomeWork7\obj\Debug\net6.0\appHomeWork7.csproj.CoreCompileInputs.cache
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appHomeWork7\bin\Debug\net6.0\appHomeWork7.exe
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appHomeWork7\bin\Debug\net6.0\appHomeWork7.deps.json
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appHomeWork7\bin\Debug\net6.0\appHomeWork7.runtimeconfig.json
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appHomeWork7\bin\Debug\net6.0\appHomeWork7.dll
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appHomeWork7\bin\Debug\net6.0\appHomeWork7.pdb
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appHomeWork7\obj\Debug\net6.0\appHomeWork7.dll
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appHomeWork7\obj\Debug\net6.0\refint\appHomeWork7.dll
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appHomeWork7\obj\Debug\net6.0\appHomeWork7.pdb
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appHomeWork7\obj\Debug\net6.0\appHomeWork7.genruntimeconfig.cache
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appHomeWork7\obj\Debug\net6.0\ref\appHomeWork7.dll

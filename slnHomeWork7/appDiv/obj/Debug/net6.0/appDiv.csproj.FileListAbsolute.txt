@@ -1,0 +1,15 @@
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appDiv\bin\Debug\net6.0\appDiv.exe
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appDiv\bin\Debug\net6.0\appDiv.deps.json
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appDiv\bin\Debug\net6.0\appDiv.runtimeconfig.json
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appDiv\bin\Debug\net6.0\appDiv.dll
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appDiv\bin\Debug\net6.0\appDiv.pdb
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appDiv\obj\Debug\net6.0\appDiv.csproj.AssemblyReference.cache
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appDiv\obj\Debug\net6.0\appDiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appDiv\obj\Debug\net6.0\appDiv.AssemblyInfoInputs.cache
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appDiv\obj\Debug\net6.0\appDiv.AssemblyInfo.cs
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appDiv\obj\Debug\net6.0\appDiv.csproj.CoreCompileInputs.cache
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appDiv\obj\Debug\net6.0\appDiv.dll
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appDiv\obj\Debug\net6.0\refint\appDiv.dll
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appDiv\obj\Debug\net6.0\appDiv.pdb
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appDiv\obj\Debug\net6.0\appDiv.genruntimeconfig.cache
+C:\WorkProgramm\HomeWork7_New\myHomeWork7\slnHomeWork7\appDiv\obj\Debug\net6.0\ref\appDiv.dll
